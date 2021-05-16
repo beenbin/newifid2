@@ -17,4 +17,4 @@ sed -i 's/192.168.1.1/192.168.3.3/g' package/base-files/files/bin/config_generat
 git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/luci-app-koolproxyR
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 #git clone -b master https://github.com/vernesong/OpenClash.git package/Openclash
-git clone https://github.com/kenzok8/openwrt-packages.git
+#git clone https://github.com/kenzok8/openwrt-packages.git
