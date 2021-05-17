@@ -20,5 +20,5 @@ git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/luci-app
 #git clone -b master https://github.com/vernesong/OpenClash.git package/Openclash
 #git clone https://github.com/kenzok8/openwrt-packages.git
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/lean/luci-theme-ifit
-git clone https://github.com/tano-systems/luci-theme-tano.git package/lean/luci-theme-tano
+#git clone https://github.com/tano-systems/luci-theme-tano.git package/lean/luci-theme-tano
 #git clone https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
