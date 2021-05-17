@@ -19,3 +19,4 @@ git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/luci-app
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone -b master https://github.com/vernesong/OpenClash.git package/Openclash
 #git clone https://github.com/kenzok8/openwrt-packages.git
+git clone https://github.com/kenzok8/luci-theme-ifit.git package/lean/luci-theme-ifit
